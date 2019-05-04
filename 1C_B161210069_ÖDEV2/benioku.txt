@@ -1,0 +1,1 @@
+sayi.txt istenilen şekliyle hazırlanabilir.
