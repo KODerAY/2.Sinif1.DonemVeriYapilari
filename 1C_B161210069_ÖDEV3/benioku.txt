@@ -1,0 +1,7 @@
+Biraz daha anlaþýlýr gözükmesi için düðümler aðaçtaki seviyeleriyle ekrana basýldý.
+Ödevde istenen þekilde gözükmesi isteniyorsa;
+-Ýþaretlenen cout'lar yorum satýrýna alýnmalýdýr.
+
+"marked" - iþaretli yerler
+menu.cpp		41. satýr 					askQuestion 	fonksiyonu input=="3" koþulu
+binaryTree.cpp	95, 97, 99, 101. satýrlar	printLevelOrder fonksiyonu
